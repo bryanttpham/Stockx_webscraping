@@ -1,5 +1,3 @@
-README.md
-
 Webscraping program that scraped pages of data from stockx to retrieve the data from best selling shoes. 
 
 Data was retrieved and written into a csv file.
